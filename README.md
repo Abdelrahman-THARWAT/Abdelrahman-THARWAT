@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahman-THARWAT
 - 👀 I’m interested in Coding 🐱‍🏍💻
-- 🌱 I’m currently learning Full-Stack!
+- 🌱 I’m currently a Full-Stack Developer!
   
 
 <!---
